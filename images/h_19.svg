@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Half">
+        <path id="Fill-1" d="M49.997,100C22.386,100 0,77.615 0,50C0,22.385 22.386,0 49.997,0C77.614,0 100,22.385 100,50C100,77.615 77.614,100 49.997,100Z"/>
+        <g transform="matrix(1,0,0,1,5,0)">
+            <g id="Group">
+                <g>
+                    <path id="Fill-4" d="M89.326,45.211C87.106,23.313 69.531,6.5 47.545,5.226L46.211,5.151L46.211,46.596L89.467,46.596L89.326,45.211Z" style="fill:white;"/>
+                    <path id="Fill-6" d="M46.21,49.208L46.21,94.459L47.545,94.389C70.764,93.019 89.23,73.739 89.578,50.487L89.598,49.208L46.21,49.208Z" style="fill:white;"/>
+                    <path id="Fill-8" d="M0.21,49.208L0.231,50.487C0.583,73.739 19.049,93.019 42.269,94.389L43.603,94.459L43.603,49.208L0.21,49.208Z" style="fill:rgb(237,34,129);"/>
+                    <path id="Fill-10" d="M42.269,5.225C20.278,6.498 2.703,23.317 0.487,45.21L0.346,46.599L43.603,46.599L43.603,5.149L42.269,5.225Z" style="fill:rgb(249,198,60);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

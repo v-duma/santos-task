@@ -1,0 +1,1 @@
+(function($) {"use strict";$(window).load(function() {$(".ui-accordion h3 span").removeClass("ui-icon");});}(jQuery));
